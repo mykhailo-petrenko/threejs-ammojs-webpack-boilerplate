@@ -1,5 +1,7 @@
 # Three.js & ammo.js (enable3d)
 
+Initially I got the copy of https://github.com/enable3d/threejs-ammojs-webpack-example
+
 <img width="640" alt="screenshot" src="./readme/screenshot.png">
 
 ---
